@@ -1,0 +1,15 @@
+{
+    "cameraOffset": [340, -390],
+    "barColor": [114, 56, 91],
+	"healthIcon": "Voiid Shaggy - Voiid Matt",
+    "characters": [
+        {
+            "name": "VC Shaggy",
+            "positionOffset": [-300,0]
+        },
+        {
+            "name": "VC Matt Mad",
+            "positionOffset": [0,0]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "Voiid Triple God Matt",
+	"healthIcon": "Voiid Triple God Matt",
+    "spritesheetType": "SPARROW",
+	"cameraOffset": [275, 0],
+    "barColor": [114, 56, 91],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "idlegod",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "leftgod",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "downgod",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "upgod",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "rightgod",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

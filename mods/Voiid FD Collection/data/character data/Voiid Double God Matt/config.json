@@ -1,0 +1,80 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "Voiid Double God Matt",
+    "spritesheetType": "SPARROW",
+	"cameraOffset": [200, -10],
+	"barColor": [114, 56, 91],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "idle0",
+            "fps": 24,
+            "looped": true
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "left0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "down0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "up0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "right0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT-alt",
+            "animation_name": "leftgod0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN-alt",
+            "animation_name": "downgod0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP-alt",
+            "animation_name": "upgod0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT-alt",
+            "animation_name": "rightgod0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "idle-alt",
+            "animation_name": "idlegod",
+            "fps": 24,
+            "looped": false
+        },
+		{	"name": "transanimation",
+            "animation_name": "trans00",
+            "fps": 24,
+            "looped": false
+		},
+		{	"name": "destransanimation",
+            "animation_name": "destrans00",
+            "fps": 24,
+            "looped": false
+		}
+    ]
+}

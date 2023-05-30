@@ -1,0 +1,14 @@
+{
+    "cameraOffset": [275, -250],
+    "barColor": [114, 56, 91],
+    "characters": [
+        {
+            "name": "Voiid Shaggy",
+            "positionOffset": [-200,0]
+        },
+        {
+            "name": "Voiid Matt Mad",
+            "positionOffset": [100,0]
+        }
+    ]
+}

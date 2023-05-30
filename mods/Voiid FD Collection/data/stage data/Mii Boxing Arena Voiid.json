@@ -1,0 +1,77 @@
+{
+	"objects": [
+		{
+			"is_Animated": false,
+			"antialiased": true,
+			"scroll_Factor": [
+				0.25,
+				0.25
+			],
+			"position": [
+				-209,
+				-262
+			],
+			"alpha": 1,
+			"file_Name": "cielo ql",
+			"scale": 3.34999999999999
+		},
+		{
+			"is_Animated": false,
+			"antialiased": true,
+			"scroll_Factor": [
+				0.499999999999999,
+				0.499999999999999
+			],
+			"position": [
+				-215,
+				-262
+			],
+			"file_Name": "edificios q wea",
+			"scale": 3.29999999999999
+		},
+		{
+			"is_Animated": false,
+			"antialiased": true,
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"position": [
+				-212,
+				-262
+			],
+			"file_Name": "ring ql",
+			"scale": 3.44999999999999
+		},
+		{
+			"is_Animated": false,
+			"position": [
+				-275,
+				-285
+			],
+			"scroll_Factor": [
+				0,
+				0
+			],
+			"layer": "foreground",
+			"antialiased": true,
+			"scale": 1,
+			"file_Name": "basurita"
+		}
+	],
+	"character_Positions": [
+		[
+			1563,
+			861
+		],
+		[
+			456,
+			864
+		],
+		[
+			1019,
+			724
+		]
+	],
+	"camera_Zoom": 0.7
+}

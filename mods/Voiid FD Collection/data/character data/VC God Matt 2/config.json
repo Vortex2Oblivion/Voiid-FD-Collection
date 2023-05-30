@@ -1,0 +1,88 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "VC God Matt 2",
+    "spritesheetType": "SPARROW",
+	"healthIcon": "God Voiid Matt",
+	"barColor": [106, 58, 96],
+    "cameraOffset": [
+		340,
+		-150
+	],
+    "offsetsFlipWhenEnemy": false,
+    "offsetsFlipWhenPlayer": false,
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "idle0",
+            "fps": 24,
+            "looped": true
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "left0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "down0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "up0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "right0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT-alt",
+            "animation_name": "leftgod",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN-alt",
+            "animation_name": "downgod",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP-alt",
+            "animation_name": "upgod",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT-alt",
+            "animation_name": "rightgod",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "idle-alt",
+            "animation_name": "idlegod",
+            "fps": 24,
+            "looped": true
+        },
+        {
+            "name": "trans",
+            "animation_name": "trans",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "destrans",
+            "animation_name": "destrans",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

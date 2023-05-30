@@ -1,0 +1,15 @@
+{
+    "cameraOffset": [340, -390],
+    "barColor": [114, 56, 91],
+	"healthIcon": "Voiid Triple God Shaggy - Voiid Triple God Matt",
+    "characters": [
+        {
+            "name": "Voiid Triple God Shaggy",
+            "positionOffset": [-300,25]
+        },
+        {
+            "name": "Voiid Triple God Matt",
+            "positionOffset": [200,0]
+        }
+    ]
+}

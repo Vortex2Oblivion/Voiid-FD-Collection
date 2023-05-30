@@ -1,0 +1,12 @@
+idle 0 0
+idle-alt 43 70
+singLEFT -19 -41
+singLEFT-alt -78 58
+singDOWN -60 -58
+singDOWN-alt -60 87
+singUP 27 -1
+singUP-alt 20 78
+singRIGHT -34 -57
+singRIGHT-alt -110 49
+trans 106 236
+destrans 44 66

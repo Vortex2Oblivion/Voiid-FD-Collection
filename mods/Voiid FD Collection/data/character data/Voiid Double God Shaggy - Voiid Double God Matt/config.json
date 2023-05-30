@@ -1,0 +1,14 @@
+{
+    "cameraOffset": [275, -250],
+    "barColor": [114, 56, 91],
+    "characters": [
+        {
+            "name": "Voiid Double God Shaggy",
+            "positionOffset": [-200,25]
+        },
+        {
+            "name": "Voiid Double God Matt",
+            "positionOffset": [100,0]
+        }
+    ]
+}

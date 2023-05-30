@@ -1,0 +1,2 @@
+camera rotate on~rotCamSpd ~rotCamRange
+hud rotate on~rotCamSpd ~rotCamRange

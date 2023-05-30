@@ -1,0 +1,15 @@
+{
+    "cameraOffset": [340, -390],
+    "barColor": [114, 56, 91],
+	"healthIcon": "Voiid Double God Shaggy - Voiid Double God Matt",
+    "characters": [
+        {
+            "name": "VC Double God Shaggy",
+            "positionOffset": [-300,25]
+        },
+        {
+            "name": "VC Double God Matt 2",
+            "positionOffset": [0,0]
+        }
+    ]
+}
